@@ -16,7 +16,7 @@ WCCA-AK provides researchers with unprecedented access to André Kim's fashion l
 
 The dataset is available for academic research purposes. Please visit our project page for download instructions and access requirements:
 
-**[Dataset Download Portal](https://github.com/WCCArtists/WCCA-AK)**
+**[Dataset Download Portal](https://huggingface.co/datasets/SY95/WCCA-AK-images)**
 
 ### Requirements
 - Registration required for dataset access
